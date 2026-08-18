@@ -2,7 +2,7 @@
 
 Welcome to my Power BI portfolio.
 
-This repository documents my development in Power BI and the practical projects I build as I develop my skills in data analysis, visualisation and business intelligence.
+This repository documents my development in Power BI, DAX, Power Query, data modelling and business intelligence through practical projects.
 
 ## Skills
 
@@ -15,18 +15,44 @@ This repository documents my development in Power BI and the practical projects 
 
 ## Projects
 
-My projects will be added here as they are completed.
+### Finance Executive Summary
 
+An interactive Power BI dashboard analysing financial and sales performance.
 
-| Project | Description | Status |
-|---|---|---|
-| Sales Executive Dashboard | Interactive dashboard for analysing sales performance and business KPIs | Coming soon |
+![Finance Executive Summary Dashboard](assets/Executive%20Dashboard.png)
+
+#### Dashboard Features
+
+- Executive KPI cards
+- Monthly profit analysis
+- Profit by country
+- Sales by product and segment
+- Interactive year filtering
+- DAX measures
+- Business-focused data visualisation
+
+#### Key KPIs
+
+| KPI | Result |
+|---|---:|
+| Total Sales | 80.90M |
+| Total Profit | 11.36M |
+| Total Units Sold | 743K |
+| Average Sale Price | 120.08 |
+
+#### Tools & Technologies
+
+- Microsoft Power BI
+- DAX
+- Power Query
+- Data Modelling
+- Data Visualisation
 
 ## About
 
 I am developing my skills in Microsoft data technologies, with a focus on Power BI, DAX, data modelling and analytics.
 
-This portfolio will document my progress through practical projects and provide examples of my technical and analytical work.
+This portfolio documents my progress through practical projects and provides examples of my technical and analytical work.
 
 ---
 
