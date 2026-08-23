@@ -19,7 +19,7 @@ The Employee Dashboard provides an overview of the workforce, including:
 - Employees by department
 - Employees by location
 
-![HR Employee Dashboard](../assets/HR%20Dashboard.png)
+![HR Employee Dashboard](../assets/hr-employee-dashboard.png)
 
 ### Training Compliance
 
