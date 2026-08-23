@@ -1,28 +1,12 @@
-# Power BI Portfolio
-
-Welcome to my Power BI portfolio.
-
-This repository documents my development in Power BI, DAX, Power Query, data modelling and business intelligence through practical projects.
-
-## Skills
-
-- Power BI
-- DAX
-- Power Query
-- Data Modelling
-- Data Visualisation
-- Business Intelligence
-
 ## Projects
 
 ### Finance Executive Summary
 
 An interactive Power BI dashboard analysing financial and sales performance.
 
-![Finance Executive Summary Dashboard](assets/Executive%20Dashboard.png)
+![Finance Executive Summary](assets/Executive%20Dashboard.png)
 
-#### Dashboard Features
-
+**Key Features**
 - Executive KPI cards
 - Monthly profit analysis
 - Profit by country
@@ -31,29 +15,33 @@ An interactive Power BI dashboard analysing financial and sales performance.
 - DAX measures
 - Business-focused data visualisation
 
-#### Key KPIs
-
-| KPI | Result |
-|---|---:|
-| Total Sales | 80.90M |
-| Total Profit | 11.36M |
-| Total Units Sold | 743K |
-| Average Sale Price | 120.08 |
-
-#### Tools & Technologies
-
-- Microsoft Power BI
-- DAX
-- Power Query
-- Data Modelling
-- Data Visualisation
-
-## About
-
-I am developing my skills in Microsoft data technologies, with a focus on Power BI, DAX, data modelling and analytics.
-
-This portfolio documents my progress through practical projects and provides examples of my technical and analytical work.
+[Download Power BI File](projects/Executive%20Summary%20-Finance%20Report.pbix)
 
 ---
 
-*This portfolio is a work in progress and will grow as new projects are completed.*
+### HR Analytics Dashboard
+
+An interactive Power BI dashboard analysing employee demographics, workforce distribution and training compliance.
+
+![HR Employee Dashboard](assets/hr-employee-dashboard.png)
+
+**Key Features**
+- Employee demographics and workforce analysis
+- Department and location analysis
+- Employee status reporting
+- Training compliance monitoring
+- DAX measures
+- Interactive filtering
+- Business-focused data visualisation
+
+[View HR Analytics Project](projects/hr-analytics.md)
+
+[Download Power BI File](projects/HR%20Dashboard.pbix)
+
+---
+
+## About
+
+I am developing my skills in Microsoft data technologies, with a focus on Power BI, DAX, Power Query, data modelling and analytics.
+
+This portfolio documents my progress through practical projects and provides examples of my technical and analytical work.
