@@ -45,3 +45,26 @@ An interactive Power BI dashboard analysing employee demographics, workforce dis
 I am developing my skills in Microsoft data technologies, with a focus on Power BI, DAX, Power Query, data modelling and analytics.
 
 This portfolio documents my progress through practical projects and provides examples of my technical and analytical work.
+
+---
+
+## Premier League Defender Analysis
+
+An interactive Power BI analysis exploring whether expensive Premier League defenders provide stronger defensive performance relative to their market value.
+
+![Premier League Defender Analysis](assets/premier-league-defender-analysis.png)
+
+**Key Features**
+
+- Defender market value analysis
+- Adjusted defensive performance
+- Defensive actions per 100 defensive minutes
+- Player-level comparison
+- Market value versus defensive performance
+- Interactive Power BI visualisation
+- DAX measures
+- Business-focused analytical thinking
+
+[View Premier League Defender Project](projects/premier-league-defender-analysis.md)
+
+[Download Power BI File](projects/Premier_League_Defender_Analysis.pbix)
