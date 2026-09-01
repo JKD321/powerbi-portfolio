@@ -68,3 +68,23 @@ An interactive Power BI analysis exploring whether expensive Premier League defe
 [View Premier League Defender Project](projects/premier-league-defender-analysis.md)
 
 [Download Power BI File](projects/Premier_League_Defender_Analysis.pbix)
+
+---
+
+### Mermaid Myth Index
+
+A light-hearted Power BI project exploring historical folklore and reported mermaid sightings.
+
+![Mermaid Myth Index](assets/mermaid-myth-index.png)
+
+This dashboard uses a curated educational dataset inspired by historical folklore and reported mermaid sightings. It is a light-hearted Power BI project intended to demonstrate visualisation and storytelling techniques.
+
+**Key Features**
+- KPI cards
+- Witness and sighting analysis
+- Geographic visualisation
+- Interactive Power BI dashboard
+- Data storytelling
+- Power BI visualisation
+
+[Download Power BI File](projects/Mermaid%20Myths.pbix)
