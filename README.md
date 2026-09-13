@@ -71,6 +71,28 @@ An interactive Power BI analysis exploring whether expensive Premier League defe
 
 ---
 
+### Messi vs Ronaldo — Career Comparison
+
+A Power BI comparison of Lionel Messi and Cristiano Ronaldo, focusing on club attacking statistics and major career honours from 2002–2026.
+
+![Club Stats](assets/messi-ronaldo-club-stats.png)
+
+![Major Trophies](assets/messi-ronaldo-major-trophies.png)
+
+**Key Features**
+
+- Goals, assists and appearances comparison
+- Goals + assists measurement
+- Goals by season analysis
+- Major trophy comparison
+- Ballon d'Or comparison
+- Interactive player selection
+- Power BI data visualisation
+
+[Download Power BI File](RonvMes.pbix)
+
+---
+
 ### Mermaid Myth Index
 
 A light-hearted Power BI project exploring historical folklore and reported mermaid sightings.
