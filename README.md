@@ -110,3 +110,31 @@ This dashboard uses a curated educational dataset inspired by historical folklor
 - Power BI visualisation
 
 [Download Power BI File](projects/Mermaid%20Myths.pbix)
+
+---
+
+### NYC Tree Census Analysis
+
+A Power BI analysis of the 2015 NYC Tree Census, exploring recorded tree problems, problem drivers, tree types and borough-level patterns.
+
+**Key Questions**
+
+- Do trees with stewardship have fewer recorded problems?
+- Which tree types have the highest recorded problem rates?
+- What are the most common recorded problems?
+- Which boroughs have the most recorded problems?
+- What problem types are most common across boroughs?
+
+**Key Features**
+
+- Problem rate analysis
+- Tree type analysis
+- Problem driver analysis
+- Borough-level analysis
+- Stewardship analysis
+- DAX measures
+- Power BI data visualisation
+- Real-world public dataset
+
+[Download Power BI File — GitHub Release](https://github.com/JKD321/powerbi-portfolio/releases/tag/v1.0)
+
