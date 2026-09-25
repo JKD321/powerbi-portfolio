@@ -115,7 +115,7 @@ This dashboard uses a curated educational dataset inspired by historical folklor
 
 ### NYC Tree Census Analysis
 
-A Power BI analysis of the 2015 NYC Tree Census, exploring recorded tree problems, problem drivers, tree types and borough-level patterns.
+A Power BI analysis of the 2015 NYC Tree Census, exploring recorded tree problems, problem drivers, tree types, borough-level patterns and stewardship.
 
 **Key Questions**
 
@@ -124,17 +124,19 @@ A Power BI analysis of the 2015 NYC Tree Census, exploring recorded tree problem
 - What are the most common recorded problems?
 - Which boroughs have the most recorded problems?
 - What problem types are most common across boroughs?
+- What factors appear to be associated with specific tree problems?
 
 **Key Features**
 
 - Problem rate analysis
 - Tree type analysis
 - Problem driver analysis
+- Tree health analysis
 - Borough-level analysis
 - Stewardship analysis
 - DAX measures
-- Power BI data visualisation
 - Real-world public dataset
 
-[Download Power BI File — GitHub Release](https://github.com/JKD321/powerbi-portfolio/releases/tag/v1.0)
+![NYC Tree Census Analysis](assets/nyc-tree-census-analysis.png)
 
+[Download Power BI File — GitHub Release](https://github.com/JKD321/powerbi-portfolio/releases/tag/v2.0)
