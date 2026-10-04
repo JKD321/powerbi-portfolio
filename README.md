@@ -141,29 +141,59 @@ A Power BI analysis of the 2015 NYC Tree Census, exploring recorded tree problem
 
 ---
 
-### Emerald Property Management Portfolio Analysis
+# Emerald Property Management — Power BI Analysis
 
 A Power BI analysis of a property management portfolio, examining rental income, maintenance expenditure, occupancy and profitability across properties, contractors and regions.
 
-![Emerald Property Management Portfolio Overview](assets/emerald-property-management.png.png)
+![Emerald Property Management Portfolio Overview](assets/emerald-property-management.png)
 
-**Key Findings**
+## Business Questions
 
-- Portfolio rental income was approximately £3.66M, compared with maintenance costs of approximately £6.46M.
-- The resulting net income was negative across the portfolio.
-- Losses appeared across multiple property types and regions, rather than being confined to one obvious outlier.
-- The available data did not establish the underlying causes of the losses.
+- Is the property portfolio generating positive net income?
+- How do rental income and maintenance expenditure compare?
+- Are financial losses concentrated in particular properties, property types, contractors or regions?
+- What patterns can be identified across the portfolio?
 
-**Key Features**
+## Key Findings
+
+- **Rental income:** Approximately £3.66 million.
+- **Maintenance costs:** Approximately £6.46 million.
+- **Net income:** Approximately -£2.80 million.
+- **Occupancy rate:** 83%.
+- Negative net income appears across multiple property types and regions, rather than being confined to one obvious outlier.
+
+The analysis suggests that maintenance expenditure is a major contributor to the portfolio's negative financial result.
+
+## Analysis and Features
 
 - Portfolio performance overview
 - Profitability analysis
 - Net income by property type and region
-- Maintenance costs by property and contractor
+- Maintenance costs by property
+- Maintenance costs by contractor
 - Occupancy and maintenance metrics
+- DAX measures and Power BI visualisation
 - Business-focused findings and recommendations
 
-[Download Power BI File — GitHub Release](https://github.com/JKD321/powerbi-portfolio/releases/tag/property-v1.0)
+## Conclusion and Limitations
 
+The portfolio records substantially higher maintenance costs than rental income. The pattern occurs across multiple properties and regions, suggesting that the issue warrants broader investigation rather than attention to a single property or contractor.
 
-[Download Power BI File — GitHub Release](https://github.com/JKD321/powerbi-portfolio/releases/tag/v2.0)
+The available data does not establish the underlying causes. Further information, such as maintenance work orders, repair categories, lease details, property condition and contractual arrangements, would be required to investigate the drivers of expenditure and identify appropriate actions.
+
+The findings are therefore limited to the data supplied.
+
+## Tools and Skills
+
+- Microsoft Power BI
+- DAX
+- Data modelling
+- Business performance analysis
+- Data visualisation
+- Evidence-based interpretation and communicating data limitations
+
+## Project File
+
+[**Download the Power BI report**](https://github.com/JKD321/powerbi-portfolio/releases/tag/property-v1.0)
+
+*This project forms part of an ongoing Power BI portfolio, with a developing focus on property performance and analytics.*
