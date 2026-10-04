@@ -139,4 +139,31 @@ A Power BI analysis of the 2015 NYC Tree Census, exploring recorded tree problem
 
 ![NYC Tree Census Analysis](assets/nyc-tree-census-analysis.png)
 
+---
+
+### Emerald Property Management Portfolio Analysis
+
+A Power BI analysis of a property management portfolio, examining rental income, maintenance expenditure, occupancy and profitability across properties, contractors and regions.
+
+![Emerald Property Management Portfolio Overview](assets/emerald-property-management.png.png)
+
+**Key Findings**
+
+- Portfolio rental income was approximately £3.66M, compared with maintenance costs of approximately £6.46M.
+- The resulting net income was negative across the portfolio.
+- Losses appeared across multiple property types and regions, rather than being confined to one obvious outlier.
+- The available data did not establish the underlying causes of the losses.
+
+**Key Features**
+
+- Portfolio performance overview
+- Profitability analysis
+- Net income by property type and region
+- Maintenance costs by property and contractor
+- Occupancy and maintenance metrics
+- Business-focused findings and recommendations
+
+[Download Power BI File — GitHub Release](https://github.com/JKD321/powerbi-portfolio/releases/tag/property-v1.0)
+
+
 [Download Power BI File — GitHub Release](https://github.com/JKD321/powerbi-portfolio/releases/tag/v2.0)
