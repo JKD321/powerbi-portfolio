@@ -128,6 +128,7 @@ A Power BI analysis of the 2015 NYC Tree Census, exploring recorded tree problem
 
 **Key Features**
 
+- 30M Cells - 634,000 Rows and 35 Columns
 - Problem rate analysis
 - Tree type analysis
 - Problem driver analysis
