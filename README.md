@@ -198,3 +198,40 @@ The findings are therefore limited to the data supplied.
 [**Download the Power BI report**](https://github.com/JKD321/powerbi-portfolio/releases/tag/property-v1.0)
 
 *This project forms part of an ongoing Power BI portfolio, with a developing focus on property performance and analytics.*
+
+---
+
+## Dublin Rental Market Analysis
+
+A Power BI analysis of Dublin rental prices from 2020–2025, examining average rents, rental growth and differences between areas.
+
+![Dublin Rental Overview](assets/Dublin%20Rent%20Overview.png)
+
+### Key Questions
+
+- Which Dublin areas have the highest average rents?
+- Which areas have experienced the fastest rental growth?
+- Does the most expensive area also have the strongest rental growth?
+- How has average Dublin rent changed between 2020 and 2025?
+
+### Key Findings
+
+- Average Dublin monthly rent increased from approximately €1.87K in 2020 to €2.10K in 2025.
+- The highest average rents were recorded in areas including Ballsbridge, Mount Merrion, Dalkey and Grand Canal Dock.
+- The fastest rental growth occurred in areas including Tara Street, Walkinstown, Killester and Kinsaley.
+- The most expensive rental areas were not necessarily the fastest-growing areas.
+
+![Dublin Rental Findings](assets/Dublin%20Rent%20Findings.png)
+
+### Key Features
+
+- Rental market trend analysis
+- Area-level rent comparison
+- Rental growth analysis
+- Interactive area filtering
+- DAX measures
+- Power BI data visualisation
+
+### Project File
+
+[Download Power BI File — GitHub Release](https://github.com/JKD321/powerbi-portfolio/releases/tag/dublin-rents-v1.0)
