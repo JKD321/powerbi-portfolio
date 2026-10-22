@@ -2,6 +2,10 @@
 
 ### Finance Executive Summary
 
+**Finance Executive Summary**
+
+This was an early step in my Power BI journey, and I was still getting to grips with the basics. I had a lot to learn about preparing data, understanding DAX and choosing the right visuals to tell a meaningful story. It was a starting point that helped me appreciate just how much there was still to learn.
+
 An interactive Power BI dashboard analysing financial and sales performance.
 
 ![Finance Executive Summary](assets/Executive%20Dashboard.png)
@@ -20,6 +24,9 @@ An interactive Power BI dashboard analysing financial and sales performance.
 ---
 
 ### HR Analytics Dashboard
+
+
+By this stage, I was becoming more comfortable working with Power BI and starting to explore what could be achieved beyond basic visualisations. I began learning more about data modelling, DAX and using different measures to examine workforce information, although I still had plenty to learn about how everything fitted together.
 
 An interactive Power BI dashboard analysing employee demographics, workforce distribution and training compliance.
 
@@ -50,6 +57,8 @@ This portfolio documents my progress through practical projects and provides exa
 
 ## Premier League Defender Analysis
 
+This project challenged me to look beyond basic statistics and think more carefully about what the data was telling me. I started exploring how different measures could be used to compare players, including defensive performance relative to market value. I was also developing my understanding of how to use DAX to create more meaningful comparisons.
+
 An interactive Power BI analysis exploring whether expensive Premier League defenders provide stronger defensive performance relative to their market value.
 
 ![Premier League Defender Analysis](assets/premier-league-defender-analysis.png)
@@ -73,6 +82,8 @@ An interactive Power BI analysis exploring whether expensive Premier League defe
 
 ### Messi vs Ronaldo — Career Comparison
 
+By this stage, I was gaining confidence in building interactive reports and exploring different ways to compare data. This project gave me the opportunity to work with career statistics across two players, while developing my understanding of how to organise information and present comparisons clearly. I was still learning how to turn a collection of figures into a more meaningful analysis.
+
 A Power BI comparison of Lionel Messi and Cristiano Ronaldo, focusing on club attacking statistics and major career honours from 2002–2026.
 
 ![Club Stats](assets/messi-ronaldo-club-stats.png)
@@ -95,6 +106,8 @@ A Power BI comparison of Lionel Messi and Cristiano Ronaldo, focusing on club at
 
 ### Mermaid Myth Index
 
+This project gave me the opportunity to experiment with a different type of dataset and move away from more traditional business reporting. I was learning that a good Power BI report isn't just about displaying numbers, but also about presenting information in a way that captures people's interest and encourages them to explore the data.
+
 A light-hearted Power BI project exploring historical folklore and reported mermaid sightings.
 
 ![Mermaid Myth Index](assets/mermaid-myth-index.png)
@@ -114,6 +127,8 @@ This dashboard uses a curated educational dataset inspired by historical folklor
 ---
 
 ### NYC Tree Census Analysis
+
+This was a bigger challenge for me, working with a dataset of approximately 634,000 records and a much wider range of information. I had to think more carefully about preparing and exploring the data, identifying useful patterns and asking meaningful questions. It helped me appreciate the importance of understanding the data before jumping into building a report.
 
 A Power BI analysis of the 2015 NYC Tree Census, exploring recorded tree problems, problem drivers, tree types, borough-level patterns and stewardship.
 
@@ -143,6 +158,8 @@ A Power BI analysis of the 2015 NYC Tree Census, exploring recorded tree problem
 ---
 
 # Emerald Property Management — Power BI Analysis
+
+This project marked an important step in my development, as I began using Power BI to investigate a real business problem rather than simply explore a dataset. I identified significant differences between rental income and maintenance expenditure, raising questions about profitability and operational efficiency. I also learned the importance of recognising the limitations of the data and avoiding conclusions that the evidence could not fully support.
 
 A Power BI analysis of a property management portfolio, examining rental income, maintenance expenditure, occupancy and profitability across properties, contractors and regions.
 
@@ -202,6 +219,8 @@ The findings are therefore limited to the data supplied.
 ---
 
 ## Dublin Rental Market Analysis
+
+By this stage, I was becoming more confident in using Power BI to investigate real-world data, working with figures from Ireland's Central Statistics Office (CSO). I explored rental trends across Dublin, comparing average rents, locations and changes over time to identify meaningful patterns. This project brought together many of the skills I had been developing, while reinforcing how much care is needed when interpreting data and presenting findings.
 
 A Power BI analysis of Dublin rental prices from 2020–2025, examining average rents, rental growth and differences between areas.
 
