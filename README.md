@@ -155,6 +155,10 @@ A Power BI analysis of the 2015 NYC Tree Census, exploring recorded tree problem
 
 ![NYC Tree Census Analysis](assets/nyc-tree-census-analysis.png)
 
+[Download Power BI Project (.pbix) — Improved v2.0](https://github.com/JKD321/powerbi-portfolio/releases/download/v2.0/TreesOfNYC.pbix)
+
+
+
 ---
 
 # Emerald Property Management — Power BI Analysis
