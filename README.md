@@ -269,17 +269,17 @@ It was an opportunity to bring together multiple datasets, investigate potential
 
 #### Report Screenshots
 
-![Indicators](assets/Price%20of%20Gold%20Screenshot.png)
+![Indicators](assets/Gold-Indicators.png)
 
-![Anomaly Analysis](assets/Price%20of%20Gold%20Two.png)
+![Anomaly Analysis](assets/Gold-Anomaly-Analysis.png)
 
-![Gold Drivers Analysis](assets/ThePriceOfGoldThree.png)
+![Gold Drivers Analysis](assets/Gold-Drivers-Analysis.png)
 
-![Gold vs Dollar](assets/ThePriceOfGoldFour.png)
+![Gold vs Dollar](assets/Gold-vs-Dollar.png)
 
-![Gold and World Events](assets/ThePriceOfGoldFive.png)
+![Gold and World Events](assets/Gold-Geopolitical-Events.png)
 
-![Key Findings and Conclusions](assets/ThePriceOfGoldSix.png)
+![Key Findings and Conclusions](assets/Gold-Key-Findings.png)
 
 #### Project File
 
