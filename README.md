@@ -258,3 +258,29 @@ A Power BI analysis of Dublin rental prices from 2020–2025, examining average 
 ### Project File
 
 [Download Power BI File — GitHub Release](https://github.com/JKD321/powerbi-portfolio/releases/tag/dublin-rents-v1.0)
+
+---
+
+### The Price of Gold – Analysing Economic and Market Drivers
+
+This project explores fluctuations in the price of gold, with a particular focus on geopolitical events and their potential relationship with unusual price movements. I examined these alongside established economic indicators, including inflation, interest rates and the US Dollar Index.
+
+It was an opportunity to bring together multiple datasets, investigate potential relationships and develop a more coherent analytical story.
+
+#### Report Screenshots
+
+![Indicators](assets/Price%20of%20Gold%20Screenshot.png)
+
+![Anomaly Analysis](assets/Price%20of%20Gold%20Two.png)
+
+![Gold Drivers Analysis](assets/ThePriceOfGoldThree.png)
+
+![Gold vs Dollar](assets/ThePriceOfGoldFour.png)
+
+![Gold and World Events](assets/ThePriceOfGoldFive.png)
+
+![Key Findings and Conclusions](assets/ThePriceOfGoldSix.png)
+
+#### Project File
+
+[Download The Price of Gold – Power BI File](https://github.com/JKD321/powerbi-portfolio/releases/tag/gold-price-v1.0)
