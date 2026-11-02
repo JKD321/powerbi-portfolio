@@ -267,6 +267,27 @@ This project explores fluctuations in the price of gold, with a particular focus
 
 It was an opportunity to bring together multiple datasets, investigate potential relationships and develop a more coherent analytical story.
 
+#### Key Questions
+
+- Is there a relationship between gold prices and inflation?
+- How do changes in interest rates correspond with movements in gold?
+- Does the strength of the US Dollar help explain gold price fluctuations?
+- Have significant geopolitical events coincided with unusual movements in gold prices?
+- Can the February 2026 price movement be explained by the economic indicators examined?
+
+#### Key Findings
+
+- **Inflation:** Showed the strongest long-term relationship with gold prices in the analysis.
+- **Interest Rates:** Influenced gold prices, but the relationship was not consistently inverse.
+- **US Dollar:** Dollar strength influenced gold prices, although the relationship was not consistent enough to explain all major movements.
+- **Gold-to-Silver Ratio:** Provided additional insight into changing conditions within the precious metals market.
+- **Geopolitical Events:** Several significant events coincided with periods of heightened gold prices and market uncertainty.
+- **February 2026:** The analysis identified a significant price anomaly that exceeded the model's expected range.
+
+#### Limitations
+
+This was an exploratory analysis using the datasets available. Relationships between indicators and gold prices do not establish causation. In particular, the geopolitical analysis identifies periods of coincidence and potential influence rather than proving that individual events caused price movements.
+
 #### Report Screenshots
 
 ![Indicators](assets/Gold-Indicators.png)
